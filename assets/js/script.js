@@ -8,7 +8,7 @@ const realizadas = document.querySelector("#realizadas");
 // Arreglo de objetos
 let arrayTareas = [
     { id: Date.now() + 1, name: "Ir al supermercado", done: false},
-    { id: Date.now() + 2, name: "Estudiar para el examen", done: false},
+    { id: Date.now() + 2, name: "Estudiar para examen", done: false},
     { id: Date.now() + 3, name: "Pasear al perro", done: false},
 ]; 
 
